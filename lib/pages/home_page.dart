@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
                 borderRadius: BorderRadius.circular(10.0),
               ),
               child: ListTile(
-                contentPadding: EdgeInsets.all(10),
+                contentPadding: const EdgeInsets.all(10),
                 title: Text(
                   user.fullName,
                 ),
