@@ -1,6 +1,6 @@
 # rest_api_my_take
 
-A new Flutter project.
+My early take on a flutter personal project utulising mock up API.
 
 ## Getting Started
 
